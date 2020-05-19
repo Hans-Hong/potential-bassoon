@@ -12,5 +12,15 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-beanutils-1.9.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-beanutils-1.9.4-sources.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-lang3-3.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-lang3-3.10-sources.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/jackson-annotations-2.10.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/jackson-core-2.10.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/jackson-databind-2.10.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
